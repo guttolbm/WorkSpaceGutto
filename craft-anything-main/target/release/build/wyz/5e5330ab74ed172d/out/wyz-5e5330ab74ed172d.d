@@ -1,0 +1,11 @@
+C:\Users\Gustavo\Documents\WorkSpaceGutto\craft-anything-main\target\release\build\wyz/5e5330ab74ed172d\out\wyz-5e5330ab74ed172d.d: C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\lib.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\bidi.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\comu.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\fmt.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\range.rs
+
+C:\Users\Gustavo\Documents\WorkSpaceGutto\craft-anything-main\target\release\build\wyz/5e5330ab74ed172d\out\libwyz-5e5330ab74ed172d.rlib: C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\lib.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\bidi.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\comu.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\fmt.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\range.rs
+
+C:\Users\Gustavo\Documents\WorkSpaceGutto\craft-anything-main\target\release\build\wyz/5e5330ab74ed172d\out\libwyz-5e5330ab74ed172d.rmeta: C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\lib.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\bidi.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\comu.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\fmt.rs C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\range.rs
+
+C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\lib.rs:
+C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\bidi.rs:
+C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\comu.rs:
+C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\fmt.rs:
+C:\Users\Gustavo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wyz-0.5.1\src\range.rs:
